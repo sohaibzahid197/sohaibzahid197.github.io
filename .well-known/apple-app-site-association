@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4D48Q9Y352.com.stepura"],
+        "components": [
+          {
+            "/": "/go/*",
+            "comment": "Everything Stepura opens lives under /go/. Scoping it keeps the privacy policy and terms pages opening in Safari, where a link to a legal document belongs -- matching the whole domain would hijack those too."
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": []
+  }
+}
